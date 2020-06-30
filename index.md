@@ -16,3 +16,7 @@ Moin Moin lieber Leser
 As Grace Hopper said:
 > I've alway been more interested
 > in the future than in the past
+
+Image
+
+<img src = "https://de.wikipedia.org/wiki/Flagge_Dänemarks#/media/Datei:Flag_of_Denmark.svg" />
