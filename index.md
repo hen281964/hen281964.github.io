@@ -13,3 +13,6 @@ Moin Moin lieber Leser
 * Köln
 * Flensburg
 
+As Grace Hopper said:
+> I've alway been more interested
+> in the future than in the past
